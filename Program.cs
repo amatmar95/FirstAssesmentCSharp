@@ -47,8 +47,3 @@ if (pelicula!=null)
 
 Write("Entre cualquier tecla");
 ReadKey();
-
-
-
-
-
