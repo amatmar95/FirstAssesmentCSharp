@@ -25,3 +25,7 @@ Para ejecutar este repositorio:
 # Autor
 
 Álvaro Mateos Martos
+
+
+# Observaciones
+Prestar atención al .gitignore ya que parece correcto pero no ignora la carpeta obj.
