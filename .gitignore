@@ -1,4 +1,3 @@
-env/
-__pycache__/
+obj/
 .vscode/
-contenidocodigo.zip/
+bin/
