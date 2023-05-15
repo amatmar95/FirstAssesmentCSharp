@@ -1,0 +1,15 @@
+C:\CloudComputing\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.exe
+C:\CloudComputing\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.deps.json
+C:\CloudComputing\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.runtimeconfig.json
+C:\CloudComputing\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.dll
+C:\CloudComputing\FirstAssesmentCSharp\bin\Debug\net7.0\FirstAssesmentCSharp.pdb
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.csproj.AssemblyReference.cache
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.AssemblyInfoInputs.cache
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.AssemblyInfo.cs
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.csproj.CoreCompileInputs.cache
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.dll
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\refint\FirstAssesmentCSharp.dll
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.pdb
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\FirstAssesmentCSharp.genruntimeconfig.cache
+C:\CloudComputing\FirstAssesmentCSharp\obj\Debug\net7.0\ref\FirstAssesmentCSharp.dll
